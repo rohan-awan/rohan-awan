@@ -24,6 +24,6 @@
 ---
 
 ## Connect
-* **Portfolio:** `https://rohan-awan.github.io/`
-* **LinkedIn:** `www.linkedin.com/in/rohan-awan-53334b416`
+* **Portfolio:** https://rohan-awan.github.io/
+* **LinkedIn:** www.linkedin.com/in/rohan-awan-53334b416
 * **Email:** `awansab1288@gmail.com
